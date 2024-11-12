@@ -1,0 +1,139 @@
+h1{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+
+h2{
+    font-weight: 500px;
+    font-size: 18px;
+    font-family: 'Zilla Slab';
+}
+
+h3{
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: 'Sour Gummy';
+}
+
+div{
+    margin: 10px;
+}
+
+body{
+    text-align: center;
+
+}
+.color-container{
+    border: solid;
+    border-color: grey;
+    border-style: solid;
+    border-width: 3px;
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+}
+
+.forestgreen-cont{
+    background-color: #228B22;
+    padding: 5px 5px;
+    text-align: center;
+    border-width: 3px;
+    display:inline-block;
+    width: 300px;
+}
+
+.black-cont{
+    background-color: black;
+    padding: 5px 5px;
+    text-align: center;
+    border-width: 3px;
+    display:inline-block;
+    width: 300px;
+}
+
+.firebrick-cont{
+    background-color: #B22222;
+    padding: 5px 5px;
+    text-align: center;
+    border-width: 3px;
+    display:inline-block;
+    width: 300px;
+}
+
+.royalblue-cont{
+    background-color: #4169E1;
+    padding: 5px 5px;
+    text-align: center;
+    border-width: 3px;
+    display:inline-block;
+    width: 300px;
+}
+
+.color-name{
+    color: white;
+    text-transform: capitalize;
+    font: bold;
+}
+
+.hex-value{
+    color: white;
+    text-transform: capitalize;
+    font: bold;
+}
+
+.fonts-container{
+    border: solid;
+    border-color: grey;
+    border-style: solid;
+    border-width: 3px;
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+}
+
+.fontname{
+    text-decoration: underline;
+    text-align: left;
+    font-weight: bold; 
+    font-size: 30px;
+}
+
+.sourgummy{
+    font-family: 'Sour Gummy';
+    text-align: left;
+}
+
+.zillaslab{
+    font-family: 'Zilla Slab';
+    text-align: left;
+}
+
+.oswald{
+    font-family: 'Oswald';
+    text-align: left;
+}
+
+.textstyle-container{
+    border: solid;
+    border-color: grey;
+    border-style: solid;
+    border-width: 3px;
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+}
+
+.h1info, .h2info, .h3info{
+    text-align: left;
+}
+
+.h2info{
+    font-family: 'Zilla Slab';
+}
+
+
+.h3info{
+    font-family: 'Sour Gummy';
+}
